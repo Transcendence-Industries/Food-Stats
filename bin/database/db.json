@@ -1,0 +1,406 @@
+{
+  "apple_pie": {
+    "calories_per_100g": 237,
+    "serving_size": 125
+  },
+  "baby_back_ribs": {
+    "calories_per_100g": 292,
+    "serving_size": 350
+  },
+  "baklava": {
+    "calories_per_100g": 428,
+    "serving_size": 80
+  },
+  "beef_carpaccio": {
+    "calories_per_100g": 126,
+    "serving_size": 120
+  },
+  "beef_tartare": {
+    "calories_per_100g": 190,
+    "serving_size": 150
+  },
+  "beet_salad": {
+    "calories_per_100g": 95,
+    "serving_size": 150
+  },
+  "beignets": {
+    "calories_per_100g": 350,
+    "serving_size": 90
+  },
+  "bibimbap": {
+    "calories_per_100g": 150,
+    "serving_size": 500
+  },
+  "bread_pudding": {
+    "calories_per_100g": 262,
+    "serving_size": 150
+  },
+  "breakfast_burrito": {
+    "calories_per_100g": 220,
+    "serving_size": 400
+  },
+  "bruschetta": {
+    "calories_per_100g": 210,
+    "serving_size": 120
+  },
+  "caesar_salad": {
+    "calories_per_100g": 180,
+    "serving_size": 200
+  },
+  "cannoli": {
+    "calories_per_100g": 340,
+    "serving_size": 110
+  },
+  "caprese_salad": {
+    "calories_per_100g": 160,
+    "serving_size": 200
+  },
+  "carrot_cake": {
+    "calories_per_100g": 415,
+    "serving_size": 120
+  },
+  "ceviche": {
+    "calories_per_100g": 110,
+    "serving_size": 180
+  },
+  "cheesecake": {
+    "calories_per_100g": 321,
+    "serving_size": 125
+  },
+  "cheese_plate": {
+    "calories_per_100g": 360,
+    "serving_size": 150
+  },
+  "chicken_curry": {
+    "calories_per_100g": 165,
+    "serving_size": 300
+  },
+  "chicken_quesadilla": {
+    "calories_per_100g": 270,
+    "serving_size": 250
+  },
+  "chicken_wings": {
+    "calories_per_100g": 290,
+    "serving_size": 300
+  },
+  "chocolate_cake": {
+    "calories_per_100g": 389,
+    "serving_size": 120
+  },
+  "chocolate_mousse": {
+    "calories_per_100g": 260,
+    "serving_size": 100
+  },
+  "churros": {
+    "calories_per_100g": 318,
+    "serving_size": 100
+  },
+  "clam_chowder": {
+    "calories_per_100g": 95,
+    "serving_size": 300
+  },
+  "club_sandwich": {
+    "calories_per_100g": 250,
+    "serving_size": 350
+  },
+  "crab_cakes": {
+    "calories_per_100g": 230,
+    "serving_size": 160
+  },
+  "creme_brulee": {
+    "calories_per_100g": 330,
+    "serving_size": 120
+  },
+  "croque_madame": {
+    "calories_per_100g": 285,
+    "serving_size": 300
+  },
+  "cup_cakes": {
+    "calories_per_100g": 390,
+    "serving_size": 90
+  },
+  "deviled_eggs": {
+    "calories_per_100g": 220,
+    "serving_size": 120
+  },
+  "donuts": {
+    "calories_per_100g": 412,
+    "serving_size": 90
+  },
+  "dumplings": {
+    "calories_per_100g": 160,
+    "serving_size": 200
+  },
+  "edamame": {
+    "calories_per_100g": 122,
+    "serving_size": 150
+  },
+  "eggs_benedict": {
+    "calories_per_100g": 230,
+    "serving_size": 350
+  },
+  "escargots": {
+    "calories_per_100g": 180,
+    "serving_size": 100
+  },
+  "falafel": {
+    "calories_per_100g": 333,
+    "serving_size": 150
+  },
+  "filet_mignon": {
+    "calories_per_100g": 250,
+    "serving_size": 200
+  },
+  "fish_and_chips": {
+    "calories_per_100g": 240,
+    "serving_size": 400
+  },
+  "foie_gras": {
+    "calories_per_100g": 462,
+    "serving_size": 80
+  },
+  "french_fries": {
+    "calories_per_100g": 312,
+    "serving_size": 150
+  },
+  "french_onion_soup": {
+    "calories_per_100g": 85,
+    "serving_size": 300
+  },
+  "french_toast": {
+    "calories_per_100g": 229,
+    "serving_size": 200
+  },
+  "fried_calamari": {
+    "calories_per_100g": 175,
+    "serving_size": 200
+  },
+  "fried_rice": {
+    "calories_per_100g": 168,
+    "serving_size": 300
+  },
+  "frozen_yogurt": {
+    "calories_per_100g": 127,
+    "serving_size": 180
+  },
+  "garlic_bread": {
+    "calories_per_100g": 350,
+    "serving_size": 120
+  },
+  "gnocchi": {
+    "calories_per_100g": 160,
+    "serving_size": 250
+  },
+  "greek_salad": {
+    "calories_per_100g": 150,
+    "serving_size": 200
+  },
+  "grilled_cheese_sandwich": {
+    "calories_per_100g": 330,
+    "serving_size": 200
+  },
+  "grilled_salmon": {
+    "calories_per_100g": 208,
+    "serving_size": 180
+  },
+  "guacamole": {
+    "calories_per_100g": 160,
+    "serving_size": 120
+  },
+  "gyoza": {
+    "calories_per_100g": 170,
+    "serving_size": 180
+  },
+  "hamburger": {
+    "calories_per_100g": 270,
+    "serving_size": 250
+  },
+  "hot_and_sour_soup": {
+    "calories_per_100g": 70,
+    "serving_size": 300
+  },
+  "hot_dog": {
+    "calories_per_100g": 290,
+    "serving_size": 150
+  },
+  "huevos_rancheros": {
+    "calories_per_100g": 150,
+    "serving_size": 350
+  },
+  "hummus": {
+    "calories_per_100g": 166,
+    "serving_size": 100
+  },
+  "ice_cream": {
+    "calories_per_100g": 207,
+    "serving_size": 150
+  },
+  "lasagna": {
+    "calories_per_100g": 165,
+    "serving_size": 300
+  },
+  "lobster_bisque": {
+    "calories_per_100g": 130,
+    "serving_size": 250
+  },
+  "lobster_roll_sandwich": {
+    "calories_per_100g": 240,
+    "serving_size": 300
+  },
+  "macaroni_and_cheese": {
+    "calories_per_100g": 190,
+    "serving_size": 300
+  },
+  "macarons": {
+    "calories_per_100g": 480,
+    "serving_size": 40
+  },
+  "miso_soup": {
+    "calories_per_100g": 40,
+    "serving_size": 250
+  },
+  "mussels": {
+    "calories_per_100g": 172,
+    "serving_size": 250
+  },
+  "nachos": {
+    "calories_per_100g": 310,
+    "serving_size": 250
+  },
+  "omelette": {
+    "calories_per_100g": 154,
+    "serving_size": 200
+  },
+  "onion_rings": {
+    "calories_per_100g": 411,
+    "serving_size": 150
+  },
+  "oysters": {
+    "calories_per_100g": 81,
+    "serving_size": 150
+  },
+  "pad_thai": {
+    "calories_per_100g": 190,
+    "serving_size": 350
+  },
+  "paella": {
+    "calories_per_100g": 158,
+    "serving_size": 350
+  },
+  "pancakes": {
+    "calories_per_100g": 227,
+    "serving_size": 200
+  },
+  "panna_cotta": {
+    "calories_per_100g": 320,
+    "serving_size": 120
+  },
+  "peking_duck": {
+    "calories_per_100g": 337,
+    "serving_size": 200
+  },
+  "pho": {
+    "calories_per_100g": 76,
+    "serving_size": 500
+  },
+  "pizza": {
+    "calories_per_100g": 266,
+    "serving_size": 300
+  },
+  "pork_chop": {
+    "calories_per_100g": 231,
+    "serving_size": 220
+  },
+  "poutine": {
+    "calories_per_100g": 270,
+    "serving_size": 350
+  },
+  "prime_rib": {
+    "calories_per_100g": 330,
+    "serving_size": 250
+  },
+  "pulled_pork_sandwich": {
+    "calories_per_100g": 290,
+    "serving_size": 300
+  },
+  "ramen": {
+    "calories_per_100g": 110,
+    "serving_size": 500
+  },
+  "ravioli": {
+    "calories_per_100g": 190,
+    "serving_size": 250
+  },
+  "red_velvet_cake": {
+    "calories_per_100g": 365,
+    "serving_size": 120
+  },
+  "risotto": {
+    "calories_per_100g": 180,
+    "serving_size": 300
+  },
+  "samosa": {
+    "calories_per_100g": 308,
+    "serving_size": 100
+  },
+  "sashimi": {
+    "calories_per_100g": 130,
+    "serving_size": 150
+  },
+  "scallops": {
+    "calories_per_100g": 111,
+    "serving_size": 150
+  },
+  "seaweed_salad": {
+    "calories_per_100g": 90,
+    "serving_size": 100
+  },
+  "shrimp_and_grits": {
+    "calories_per_100g": 180,
+    "serving_size": 350
+  },
+  "spaghetti_bolognese": {
+    "calories_per_100g": 155,
+    "serving_size": 350
+  },
+  "spaghetti_carbonara": {
+    "calories_per_100g": 200,
+    "serving_size": 350
+  },
+  "spring_rolls": {
+    "calories_per_100g": 150,
+    "serving_size": 150
+  },
+  "steak": {
+    "calories_per_100g": 271,
+    "serving_size": 250
+  },
+  "strawberry_shortcake": {
+    "calories_per_100g": 260,
+    "serving_size": 150
+  },
+  "sushi": {
+    "calories_per_100g": 150,
+    "serving_size": 200
+  },
+  "tacos": {
+    "calories_per_100g": 210,
+    "serving_size": 200
+  },
+  "takoyaki": {
+    "calories_per_100g": 210,
+    "serving_size": 180
+  },
+  "tiramisu": {
+    "calories_per_100g": 283,
+    "serving_size": 120
+  },
+  "tuna_tartare": {
+    "calories_per_100g": 144,
+    "serving_size": 150
+  },
+  "waffles": {
+    "calories_per_100g": 291,
+    "serving_size": 200
+  }
+}

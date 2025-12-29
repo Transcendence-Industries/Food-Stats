@@ -1,0 +1,28 @@
+[project]
+name = "food-stats"
+version = "0.1.0"
+requires-python = "==3.9.*"
+dependencies = [
+    "detectron2",
+    "fastapi>=0.128.0",
+    "numpy==1.23.5",
+    "opencv-python-headless>=4.11.0.86",
+    "pandas>=2.3.3",
+    "pillow==9.5.0",
+    "protobuf==3.20",
+    "pyarrow>=21.0.0",
+    "pydantic>=2.12.5",
+    "python-multipart>=0.0.20",
+    "setuptools==59.5.0",
+    "torch",
+    "torchaudio",
+    "torchvision",
+    "tqdm>=4.67.1",
+    "uvicorn>=0.39.0",
+]
+
+[tool.uv.sources]
+detectron2 = { url = "https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.10/detectron2-0.6%2Bcpu-cp39-cp39-linux_x86_64.whl" }
+torch = { url = "https://download.pytorch.org/whl/cpu/torch-1.10.1%2Bcpu-cp39-cp39-linux_x86_64.whl" }
+torchaudio = { url = "https://download.pytorch.org/whl/cpu/torchaudio-0.10.1%2Bcpu-cp39-cp39-linux_x86_64.whl" }
+torchvision = { url = "https://download.pytorch.org/whl/cpu/torchvision-0.11.2%2Bcpu-cp39-cp39-linux_x86_64.whl" }
