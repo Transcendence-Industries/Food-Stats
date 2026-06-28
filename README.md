@@ -9,6 +9,7 @@
 * [Screenshots](#screenshots)
 * [Datasets](#datasets)
 * [Usage](#usage)
+* [Repository Files](#repository-files)
 * [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -61,6 +62,19 @@
 - Make sure that the segmentation and classification models are located in the `/bin` directory (either use the shipped models or train your own).
 - Deploy the Docker stack with `docker compose up -d`.
 - Access the API on `http://localhost:8080` (see `/docs` for the API endpoints).
+
+### n8n and Telegram
+
+- Import `n8n/food-stats-telegram-workflow.json` into n8n to connect the API to a Telegram bot.
+- The workflow accepts Telegram photo messages, downloads the highest-quality image, sends it to `http://food-stats:8080/analyze`, and replies with the detected foods, grams, and calories.
+- The API URL assumes n8n can resolve the Docker Compose service name `food-stats`. Change the HTTP Request node URL if n8n runs outside the same Docker network.
+- Configure your own Telegram credentials after importing the workflow.
+
+## Repository Files
+
+- `pyproject.toml` and `uv.lock` define the active Python environment. The active setup uses `opencv-python-headless`, which is better suited for Docker and API inference because it avoids GUI dependencies.
+- `legacy/pyproject.toml.old` and `legacy/uv.lock.old` are legacy copies of the earlier dependency config. They only differ from the active config by using `opencv-python` instead of `opencv-python-headless`, so keep them as historical context rather than using them for installation.
+- `n8n/food-stats-telegram-workflow.json` is an optional n8n workflow export for the Telegram bot integration described above. It is not needed to run or train the API itself.
 
 ## Acknowledgements
 
